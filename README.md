@@ -42,18 +42,18 @@ pip install -r requirements.txt
 ```
 *Make sure you have a CUDA-enabled PyTorch if you want GPU acceleration for embeddings.*
 
-### 3. Add Your Documents
+### 4. Add Your Documents
 
 - Place your `.md` (Markdown) or text files inside the `data` directory.
 - You can use any tech documentation, cheat sheets, or notes you want to query.
 
-### 4. Initialize the RAG Database
+### 5. Initialize the RAG Database
 ```
 python initialize_rag_db.py
 ```
 This script will split your documents, create MiniLM embeddings, and store them in ChromaDB.
 
-### 5. Ask Questions
+### 6. Ask Questions
 
 ```
 python ask_rag.py "Your question here"
