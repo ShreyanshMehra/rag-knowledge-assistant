@@ -25,7 +25,7 @@ This Retrieval-Augmented Generation (RAG) application lets you build powerful, i
 
 ## Example Output
 
-![Example Output](https://github.com/mlsmall/RAG-Application-with-LangChain/blob/main/output.png)
+![Example Output](https://github.com/ShreyanshMehra/rag-knowledge-assistant/blob/main/output.png)
 
 ## Instructions
 
