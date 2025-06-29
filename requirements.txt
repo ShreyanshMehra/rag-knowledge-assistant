@@ -1,0 +1,7 @@
+langchain
+unstructured
+chromadb
+sentence-transformers
+transformers
+langchain-community
+python-magic-bin
